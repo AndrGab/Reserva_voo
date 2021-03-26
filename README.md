@@ -2,7 +2,7 @@
 
 ## Reservas de voos
 
-**Desafios do Módulo 02 - Elixir**
+**Desafios do Módulo 03 - Elixir**
 **RocketSeat - Ignite**
 
 Aplicação de teste para uma API de Agendamento de voos, onde é possível:
